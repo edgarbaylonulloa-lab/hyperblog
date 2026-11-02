@@ -1,5 +1,5 @@
 Soy Edgar Baylón Ulloa tengo 47 años
-Soy de Trujillo Peru.
-
+Soy de Trujillo Peru. 
+Pero ahora vivo en Lima
 
 Este es archvo para test de GIT
